@@ -1,7 +1,5 @@
 test-repo
 =========
 Test repo this is an update.
-This is another update.
-And another!
-And another!!!
-MORE!
+
+This is an update to the forked repo.
